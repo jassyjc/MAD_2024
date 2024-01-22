@@ -18,14 +18,14 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 | Langkah-langkah                           | Status | Versi |
 | ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Instalasi Node                            |    ok  |   18  |
+| Instalasi JDK                             |   ok   |   17  |
+| Android Studio                            |   ok   |   20233.1    |
+| SDK                                       |   ok     |   33  |
+| ANDROID_HOME & Add platform-tools to Path |  ok      | -     |
+| Android Emulator (opt)                    |    ok    | -     |
+| Create Project RN using npx               |   ok     | -     |
+| Run Project on Emulator / Device          |    ok    | -     |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
@@ -33,12 +33,12 @@ Sebagai contoh :
 
 | Langkah-langkah                           | Status | Versi                       |
 | ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
+| Node                                      | Done   | 18.1                     |
 | JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
+| Android Studio                            | Done   | 2023.1                        |
 | SDK                                       | Done   | 29                          |
 | ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
+| Android Emulator (opt)                    | Done   | pixel 7 pro           |
 | Create Project RN using npx               | Done   | -                           |
 | Run Project on Emulator / Device          | Done   | -                           |
 
